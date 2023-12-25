@@ -3,7 +3,7 @@ package com.java8.stream;
 import java.util.ArrayList;
 import java.util.List;
 
-public class StreamClient {
+public class StreamClient1 {
     public static void main(String[] args) {
         List<String> lines = new ArrayList<>();
         lines.add("us");
